@@ -68,14 +68,14 @@ PRODUCT_COPY_FILES += \
     vendor/zte/urd/proprietary/vendor/firmware/DE.o.msm8976:system/vendor/firmware/DE.o.msm8976 \
     vendor/zte/urd/proprietary/vendor/firmware/a420_pfp.fw:system/vendor/firmware/a420_pfp.fw \
     vendor/zte/urd/proprietary/vendor/firmware/a420_pm4.fw:system/vendor/firmware/a420_pm4.fw \
-    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_10_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_10_0.fw \
-    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_1_1.fw:system/vendor/etc/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_1_6.fw:system/vendor/etc/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_2_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_4_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_5_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_5_0.fw \
-    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_6_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_6_0.fw \
-    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_8_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_8_0.fw \
+    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_10_0.fw:system/vendor/firmware/cpp_firmware_v1_10_0.fw \
+    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_4_0.fw:system/vendor/firmware/cpp_firmware_v1_4_0.fw \
+    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_5_0.fw:system/vendor/firmware/cpp_firmware_v1_5_0.fw \
+    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_6_0.fw:system/vendor/firmware/cpp_firmware_v1_6_0.fw \
+    vendor/zte/urd/proprietary/vendor/etc/firmware/cpp_firmware_v1_8_0.fw:system/vendor/firmware/cpp_firmware_v1_8_0.fw \
     vendor/zte/urd/proprietary/vendor/firmware/ice40.bin:system/vendor/firmware/ice40.bin \
     vendor/zte/urd/proprietary/vendor/firmware/leia_pfp_470.fw:system/vendor/firmware/leia_pfp_470.fw \
     vendor/zte/urd/proprietary/vendor/etc/firmware/leia_pm4_470.fw:system/vendor/etc/firmware/leia_pm4_470.fw \
